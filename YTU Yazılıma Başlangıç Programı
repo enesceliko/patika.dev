@@ -1,0 +1,41 @@
+Project 1
+[22,27,16,2,18,6]
+
+A) 
+  Step 1
+  [2,27,16,22,18,6]
+
+  Step 2
+  [2,6,16,22,18,27]
+
+  Step 3
+  [2,6,16,18,22,27]
+
+B)
+  Big-O show O(n^2)
+  
+C)
+  Worst case:
+  [27,22,18,16,6,2] O(n^2)
+  Best case:
+  [2,6,16,18,22,27] O(n)
+  Average case:
+  [2,6,16,18,22,27] O(n^2)
+  
+D)
+  18 number is median number in this array so this is average case.
+  
+E)
+  Step 1 :
+  [2,3,5,8,7,9,4,15,6]
+  
+  Step 2 :
+  [2,3,4,8,7,9,5,15,6]
+  
+  Step 3 :
+  [2,3,4,5,7,9,8,15,6]
+  
+  Step 4 :
+  [2,3,4,5,6,9,8,15,7]
+  
+www.patika.dev
